@@ -1,0 +1,16 @@
+*
+{
+    margin: 0;
+    text-decoration: none;
+}
+
+body
+{
+    background-color: antiquewhite;
+}
+
+body h3
+{
+    padding: 10px;
+    text-align: center;
+}
