@@ -18,7 +18,7 @@ def primos():
     qts_primos_tot = int(total)
     
     qtds_primo = 1
-    num_primos = ["2",]
+    num_primos = [2]
     numero = 3
 
     while qtds_primo  < qts_primos_tot:
